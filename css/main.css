@@ -1,0 +1,53 @@
+body {
+    background-color: #25271E;
+    color: #6D0839;
+}
+
+.home {
+    background-color: #E0EFF1;
+}
+
+.curriculo {
+	background-color: #D14961;
+	color: #FBEFF4;
+}
+
+.podcasts {
+	background-color: #448EC3;
+	color: #FBEFF4;
+}
+
+.contatos {
+	background-color: #8F8F8F;
+}
+
+.pokemon{
+	background-color: #D8C358; 
+}
+
+.series {
+	background-color: #25020F;
+	color: #FBEFF4;
+}
+
+.eastereggs {
+	background-color: #44C38D;
+    color: #FBEFF4;
+}
+
+.datascience {
+
+}
+
+.navbar-inverse, .navbar-inverse .navbar-nav>li>a{
+    background-color: #000000;
+    color: #FBEFF4;
+}
+
+.navbar-header .navbar-brand{
+	color: #7DB4B5;
+}
+
+.well {
+	border: rgba(0,0,0,.25);
+}
